@@ -1,0 +1,711 @@
+"","Symbol","Company.Name","Sector","Industry"
+"1","ED","Consolidated Edison, Inc.","Utilities","Electric Utilities"
+"2","DD","E. I. du Pont de Nemours and Company","Basic Materials","Agricultural Chemicals"
+"3","CVX","Chevron Corporation","Basic Materials","Major Integrated Oil & Gas"
+"4","FL","Foot Locker, Inc.","Consumer Goods","Textile - Apparel Footwear & Accessories"
+"5","CAT","Caterpillar Inc.","Industrial Goods","Farm & Construction Machinery"
+"6","IP","International Paper Company","Consumer Goods","Packaging & Containers"
+"7","SJW","SJW Group","Utilities","Water Utilities"
+"8","F","Ford Motor Company","Consumer Goods","Auto Manufacturers - Major"
+"9","LLY","Eli Lilly and Company","Healthcare","Drug Manufacturers - Major"
+"10","AVP","Avon Products, Inc.","Consumer Goods","Personal Products"
+"11","NFG","National Fuel Gas Company","Basic Materials","Independent Oil & Gas"
+"12","BF.A",NA,NA,NA
+"13","MATX","Matson, Inc.","Services","Shipping"
+"14","BK","The Bank of New York Mellon Corporation","Financial","Asset Management"
+"15","SNE","Sony Corporation","Consumer Goods","Electronic Equipment"
+"16","KR","The Kroger Co.","Services","Grocery Stores"
+"17","BP","BP p.l.c.","Basic Materials","Major Integrated Oil & Gas"
+"18","C","Citigroup Inc.","Financial","Money Center Banks"
+"19","CL","Colgate-Palmolive Company","Consumer Goods","Personal Products"
+"20","APA","Apache Corporation","Basic Materials","Independent Oil & Gas"
+"21","DDS","Dillard's, Inc.","Services","Department Stores"
+"22","TSN","Tyson Foods, Inc.","Consumer Goods","Meat Products"
+"23","OII","Oceaneering International, Inc.","Basic Materials","Oil & Gas Equipment & Services"
+"24","BIF",NA,NA,NA
+"25","LAWS","Lawson Products, Inc.","Services","Industrial Equipment Wholesale"
+"26","GWW","W.W. Grainger, Inc.","Services","Industrial Equipment Wholesale"
+"27","JCP","J. C. Penney Company, Inc.","Services","Department Stores"
+"28","VNO","Vornado Realty Trust","Financial","REIT - Diversified"
+"29","LPX","Louisiana-Pacific Corporation","Services","Building Materials Wholesale"
+"30","WABC","Westamerica Bancorporation","Financial","Regional - Pacific Banks"
+"31","NWLI","National Western Life Group, Inc.","Financial","Life Insurance"
+"32","GLT","P. H. Glatfelter Company","Consumer Goods","Paper & Paper Products"
+"33","LUB","Luby's, Inc.","Services","Restaurants"
+"34","NL","NL Industries, Inc.","Services","Industrial Equipment Wholesale"
+"35","PGR","The Progressive Corporation","Financial","Property & Casualty Insurance"
+"36","BF.B",NA,NA,NA
+"37","ADI","Analog Devices, Inc.","Technology","Semiconductor - Integrated Circuits"
+"38","GHC","Graham Holdings Company","Services","Education & Training Services"
+"39","GFI","Gold Fields Limited","Basic Materials","Gold"
+"40","SJI","South Jersey Industries, Inc.","Utilities","Gas Utilities"
+"41","SHLM","A. Schulman, Inc.","Basic Materials","Chemicals - Major Diversified"
+"42","BAC","Bank of America Corporation","Financial","Money Center Banks"
+"43","CTS","CTS Corporation","Technology","Diversified Electronics"
+"44","MAT","Mattel, Inc.","Consumer Goods","Toys & Games"
+"45","AP","Ampco-Pittsburgh Corporation","Industrial Goods","Diversified Machinery"
+"46","WGO","Winnebago Industries, Inc.","Consumer Goods","Recreational Vehicles"
+"47","MYL","Mylan N.V.","Healthcare","Drugs - Generic"
+"48","TRC","Tejon Ranch Co.","Financial","Property Management"
+"49","GIS","General Mills, Inc.","Consumer Goods","Processed & Packaged Goods"
+"50","TMO","Thermo Fisher Scientific Inc.","Healthcare","Medical Laboratories & Research"
+"51","VLGEA","Village Super Market, Inc.","Services","Grocery Stores"
+"52","DUK","Duke Energy Corporation","Utilities","Electric Utilities"
+"53","JPM","JPMorgan Chase & Co.","Financial","Money Center Banks"
+"54","AGYS","Agilysys, Inc.","Technology","Application Software"
+"55","L","Loews Corporation","Financial","Property & Casualty Insurance"
+"56","BDX","Becton, Dickinson and Company","Healthcare","Medical Instruments & Supplies"
+"57","D","Dominion Energy, Inc.","Utilities","Electric Utilities"
+"58","TGNA","TEGNA Inc.","Services","Broadcasting - TV"
+"59","IR","Ingersoll-Rand Plc","Industrial Goods","Diversified Machinery"
+"60","CAL","Caleres, Inc.","Consumer Goods","Textile - Apparel Footwear & Accessories"
+"61","MSEX","Middlesex Water Company","Utilities","Water Utilities"
+"62","NJR","New Jersey Resources Corporation","Utilities","Gas Utilities"
+"63","ANAT","American National Insurance Company","Financial","Property & Casualty Insurance"
+"64","KMT","Kennametal Inc.","Industrial Goods","Machine Tools & Accessories"
+"65","SENEB","Seneca Foods Corporation","Consumer Goods","Processed & Packaged Goods"
+"66","WMK","Weis Markets, Inc.","Services","Grocery Stores"
+"67","AEM","Agnico Eagle Mines Limited","Basic Materials","Gold"
+"68","KMB","Kimberly-Clark Corporation","Consumer Goods","Personal Products"
+"69","CHD","Church & Dwight Co., Inc.","Consumer Goods","Cleaning Products"
+"70","DHR","Danaher Corporation","Industrial Goods","Diversified Machinery"
+"71","AVA","Avista Corporation","Utilities","Diversified Utilities"
+"72","FUL","H.B. Fuller Company","Basic Materials","Specialty Chemicals"
+"73","BBT","BB&T Corporation","Financial","Regional - Southeast Banks"
+"74","FHN","First Horizon National Corporation","Financial","Regional - Southeast Banks"
+"75","INTC","Intel Corporation","Technology","Semiconductor - Broad Line"
+"76","KSU","Kansas City Southern","Services","Railroads"
+"77","CTG","Computer Task Group, Incorporated","Technology","Information Technology Services"
+"78","KYO","Kyocera Corporation","Technology","Diversified Electronics"
+"79","MUX","McEwen Mining Inc.","Basic Materials","Industrial Metals & Minerals"
+"80","MOG.A",NA,NA,NA
+"81","CSX","CSX Corporation","Services","Railroads"
+"82","CECE","CECO Environmental Corp.","Industrial Goods","Pollution & Treatment Controls"
+"83","SEIC","SEI Investments Co.","Financial","Asset Management"
+"84","PHIIK","PHI, Inc.",NA,NA
+"85","NVO","Novo Nordisk A/S","Healthcare","Drug Manufacturers - Other"
+"86","COP","ConocoPhillips","Basic Materials","Independent Oil & Gas"
+"87","IFF","International Flavors & Fragrances Inc.","Basic Materials","Specialty Chemicals"
+"88","SLB","Schlumberger Limited","Basic Materials","Oil & Gas Equipment & Services"
+"89","HUM","Humana Inc.","Healthcare","Health Care Plans"
+"90","OXY","Occidental Petroleum Corporation","Basic Materials","Independent Oil & Gas"
+"91","VLO","Valero Energy Corporation","Basic Materials","Oil & Gas Refining & Marketing"
+"92","HRS","Harris Corporation","Technology","Communication Equipment"
+"93","SO","The Southern Company","Utilities","Electric Utilities"
+"94","THC","Tenet Healthcare Corp.","Healthcare","Hospitals"
+"95","IHC","Independence Holding Company","Financial","Life Insurance"
+"96","VBF","Invesco Bond Fund",NA,NA
+"97","CVBF","CVB Financial Corp.","Financial","Regional - Pacific Banks"
+"98","RDC","Rowan Companies plc","Basic Materials","Oil & Gas Drilling & Exploration"
+"99","FMBI","First Midwest Bancorp, Inc.","Financial","Regional - Midwest Banks"
+"100","TRST","TrustCo Bank Corp NY","Financial","Regional - Northeast Banks"
+"101","ASNA","Ascena Retail Group, Inc.","Services","Apparel Stores"
+"102","LM","Legg Mason, Inc.","Financial","Asset Management"
+"103","PAYX","Paychex, Inc.","Services","Staffing & Outsourcing Services"
+"104","SLM","SLM Corporation","Financial","Credit Services"
+"105","AXE","Anixter International Inc.","Services","Industrial Equipment Wholesale"
+"106","SGMS","Scientific Games Corporation","Services","Gaming Activities"
+"107","CB","Chubb Limited","Financial","Property & Casualty Insurance"
+"108","JCI","Johnson Controls International plc","Consumer Goods","Auto Parts"
+"109","SWK","Stanley Black & Decker, Inc.","Industrial Goods","Machine Tools & Accessories"
+"110","NVR","NVR, Inc.","Industrial Goods","Residential Construction"
+"111","ROST","Ross Stores, Inc.","Services","Apparel Stores"
+"112","JKHY","Jack Henry & Associates, Inc.","Technology","Business Software & Services"
+"113","CBU","Community Bank System, Inc.","Financial","Regional - Midwest Banks"
+"114","STKL","SunOpta Inc.",NA,NA
+"115","MSFT","Microsoft Corporation","Technology","Business Software & Services"
+"116","HVT.A",NA,NA,NA
+"117","CY","Cypress Semiconductor Corporation","Technology","Semiconductor - Broad Line"
+"118","BDN","Brandywine Realty Trust","Financial","REIT - Diversified"
+"119","VIVO","Meridian Bioscience, Inc.","Healthcare","Diagnostic Substances"
+"120","FISV","Fiserv, Inc.","Services","Business Services"
+"121","UNM","Unum Group","Financial","Accident & Health Insurance"
+"122","TWN","The Taiwan Fund, Inc.",NA,NA
+"123","EQC","Equity Commonwealth",NA,NA
+"124","MMT","MFS Multimarket Income Trust",NA,NA
+"125","CMU","MFS High Yield Municipal Trust",NA,NA
+"126","FUN","Cedar Fair, L.P.","Services","General Entertainment"
+"127","FBNC","First Bancorp","Financial","Regional - Mid-Atlantic Banks"
+"128","TIF","Tiffany & Co.","Services","Jewelry Stores"
+"129","AVNW","Aviat Networks, Inc.","Technology","Communication Equipment"
+"130","MGF","MFS Government Markets Income Trust",NA,NA
+"131","WASH","Washington Trust Bancorp, Inc.","Financial","Regional - Northeast Banks"
+"132","CDNS","Cadence Design Systems, Inc.","Technology","Application Software"
+"133","TEF","Telefónica, S.A.","Technology","Telecom Services - Foreign"
+"134","IEP","Icahn Enterprises L.P.","Conglomerates","Conglomerates"
+"135","PII","Polaris Industries Inc.","Consumer Goods","Recreational Vehicles"
+"136","NNY","Nuveen New York Municipal Value Fund, Inc.",NA,NA
+"137","NCA","Nuveen California Municipal Value Fund, Inc.",NA,NA
+"138","VVC","Vectren Corporation","Utilities","Diversified Utilities"
+"139","KEY","KeyCorp","Financial","Regional - Midwest Banks"
+"140","SMP","Standard Motor Products, Inc.","Consumer Goods","Auto Parts"
+"141","PBT","Permian Basin Royalty Trust","Basic Materials","Independent Oil & Gas"
+"142","SWN","Southwestern Energy Company","Basic Materials","Independent Oil & Gas"
+"143","SEE","Sealed Air Corporation","Consumer Goods","Packaging & Containers"
+"144","SCX","The L.S. Starrett Company","Industrial Goods","Small Tools & Accessories"
+"145","SAN","Banco Santander, S.A.","Financial","Foreign Money Center Banks"
+"146","TTF","The Thai Fund, Inc.",NA,NA
+"147","TFX","Teleflex Incorporated","Healthcare","Medical Instruments & Supplies"
+"148","MIN","MFS Intermediate Income Trust",NA,NA
+"149","CHFC","Chemical Financial Corporation","Financial","Regional - Midwest Banks"
+"150","GNCMA","General Communication, Inc.","Technology","Long Distance Carriers"
+"151","SUN","Sunoco LP","Basic Materials","Oil & Gas Refining & Marketing"
+"152","KTF","Deutsche Municipal Income Trust",NA,NA
+"153","TECH","Bio-Techne Corporation","Healthcare","Biotechnology"
+"154","MEN","BlackRock MuniEnhanced Fund, Inc.",NA,NA
+"155","KSM","Deutsche Strategic Municipal Income Trust",NA,NA
+"156","CXH","MFS Investment Grade Municipal Trust",NA,NA
+"157","AGN","Allergan plc","Healthcare","Drugs - Generic"
+"158","MCR","MFS Charter Income Trust",NA,NA
+"159","EA","Electronic Arts Inc.","Technology","Multimedia & Graphics Software"
+"160","ZIXI","Zix Corporation","Technology","Application Software"
+"161","GIII","G-III Apparel Group, Ltd.","Consumer Goods","Textile - Apparel Clothing"
+"162","POT","Potash Corporation of Saskatchewan Inc.","Basic Materials","Agricultural Chemicals"
+"163","ICON","Iconix Brand Group, Inc.","Consumer Goods","Textile - Apparel Footwear & Accessories"
+"164","JOE","The St. Joe Company","Financial","Real Estate Development"
+"165","TEX","Terex Corporation","Industrial Goods","Farm & Construction Machinery"
+"166","SSP","The E. W. Scripps Company","Services","Broadcasting - TV"
+"167","RIO","Rio Tinto plc","Basic Materials","Industrial Metals & Minerals"
+"168","MXE","Mexico Equity & Income Fund Inc.",NA,NA
+"169","AZO","AutoZone, Inc.","Services","Auto Parts Stores"
+"170","PRGS","Progress Software Corporation","Technology","Application Software"
+"171","EZPW","EZCORP, Inc.","Financial","Credit Services"
+"172","NUM","Nuveen Michigan Quality Municipal Income Fund",NA,NA
+"173","ATNI","ATN International, Inc.","Technology","Telecom Services - Domestic"
+"174","OI","Owens-Illinois, Inc.","Consumer Goods","Packaging & Containers"
+"175","QCOM","QUALCOMM Incorporated","Technology","Communication Equipment"
+"176","ELY","Callaway Golf Company","Consumer Goods","Sporting Goods"
+"177","PPR","Voya Prime Rate Trust",NA,NA
+"178","NBTB","NBT Bancorp Inc.","Financial","Regional - Northeast Banks"
+"179","SCLN","SciClone Pharmaceuticals, Inc.","Healthcare","Drug Manufacturers - Other"
+"180","FRED","Fred's, Inc.","Services","Discount, Variety Stores"
+"181","KOPN","Kopin Corporation","Technology","Semiconductor - Broad Line"
+"182","STBA","S&T Bancorp, Inc.","Financial","Regional - Northeast Banks"
+"183","HQL","Tekla Life Sciences Investors",NA,NA
+"184","CACC","Credit Acceptance Corporation","Financial","Credit Services"
+"185","LDF","The Latin American Discovery Fund, Inc.",NA,NA
+"186","PX","Praxair, Inc.","Basic Materials","Chemicals - Major Diversified"
+"187","JEQ",NA,NA,NA
+"188","EQS",NA,NA,NA
+"189","CCU","Compañía Cervecerías Unidas S.A.","Consumer Goods","Beverages - Brewers"
+"190","TRIB","Trinity Biotech plc","Healthcare","Diagnostic Substances"
+"191","MTX","Minerals Technologies Inc.","Basic Materials","Chemicals - Major Diversified"
+"192","PDCO","Patterson Companies, Inc.","Services","Medical Equipment Wholesale"
+"193","MIY","BlackRock MuniYield Michigan Quality Fund, Inc.",NA,NA
+"194","QUMU","Qumu Corporation","Technology","Computer Peripherals"
+"195","TCO","Taubman Centers, Inc.","Financial","REIT - Retail"
+"196","AAON","AAON, Inc.","Industrial Goods","General Building Materials"
+"197","BBOX","Black Box Corporation","Technology","Networking & Communication Devices"
+"198","CHK","Chesapeake Energy Corporation","Basic Materials","Independent Oil & Gas"
+"199","BKN","BlackRock Investment Quality Municipal Trust Inc.",NA,NA
+"200","MS","Morgan Stanley","Financial","Investment Brokerage - National"
+"201","SCVL","Shoe Carnival, Inc.","Services","Apparel Stores"
+"202","NMT","Nuveen Massachusetts Quality Municipal Income Fund",NA,NA
+"203","NPV","Nuveen Virginia Quality Municipal Income Fund",NA,NA
+"204","ALG","Alamo Group Inc.","Industrial Goods","Farm & Construction Machinery"
+"205","SYBT","Stock Yards Bancorp, Inc.","Financial","Regional - Southeast Banks"
+"206","TCBK","TriCo Bancshares","Financial","Regional - Pacific Banks"
+"207","AKR","Acadia Realty Trust","Financial","Property Management"
+"208","THRM","Gentherm Incorporated","Consumer Goods","Auto Parts"
+"209","BBSI","Barrett Business Services, Inc.","Services","Staffing & Outsourcing Services"
+"210","CPT","Camden Property Trust","Financial","REIT - Residential"
+"211","MCRI","Monarch Casino & Resort, Inc.","Services","Resorts & Casinos"
+"212","EQR","Equity Residential","Financial","REIT - Residential"
+"213","BWA","BorgWarner Inc.","Consumer Goods","Auto Parts"
+"214","UBSH","Union Bankshares Corporation","Financial","Regional - Mid-Atlantic Banks"
+"215","RVSB","Riverview Bancorp, Inc.","Financial","Savings & Loans"
+"216","AF","Astoria Financial Corporation","Financial","Savings & Loans"
+"217","BFR","BBVA Banco Francés S.A.","Financial","Foreign Regional Banks"
+"218","TV","Grupo Televisa, S.A.B.","Services","Broadcasting - TV"
+"219","EMN","Eastman Chemical Company","Basic Materials","Chemicals - Major Diversified"
+"220","ARWR","Arrowhead Pharmaceuticals, Inc.","Healthcare","Biotechnology"
+"221","OKSB","Southwest Bancorp, Inc.","Financial","Regional - Southwest  Banks"
+"222","MED","Medifast, Inc.","Services","Specialty Retail, Other"
+"223","ALB","Albemarle Corporation","Basic Materials","Specialty Chemicals"
+"224","BZH","Beazer Homes USA, Inc.","Industrial Goods","Residential Construction"
+"225","NMRX","Numerex Corp.","Technology","Communication Equipment"
+"226","MPAA","Motorcar Parts of America, Inc.","Consumer Goods","Auto Parts"
+"227","USNA","USANA Health Sciences, Inc.","Healthcare","Drug Related Products"
+"228","CNOB","ConnectOne Bancorp, Inc.","Financial","Regional - Northeast Banks"
+"229","VVUS","VIVUS, Inc.","Healthcare","Biotechnology"
+"230","HMY","Harmony Gold Mining Company Limited","Basic Materials","Gold"
+"231","HIW","Highwoods Properties, Inc.","Financial","REIT - Office"
+"232","AKO.A",NA,NA,NA
+"233","ADTN","ADTRAN, Inc.","Technology","Communication Equipment"
+"234","AMED","Amedisys, Inc.","Healthcare","Home Health Care"
+"235","RS","Reliance Steel & Aluminum Co.","Basic Materials","Steel & Iron"
+"236","CETV","Central European Media Enterprises Ltd.","Services","Broadcasting - TV"
+"237","VCO","Viña Concha y Toro S.A.","Consumer Goods","Beverages - Brewers"
+"238","BMO","Bank of Montreal","Financial","Money Center Banks"
+"239","UHAL","AMERCO","Services","Rental & Leasing Services"
+"240","TGS","Transportadora de Gas Del Sur S.A.","Utilities","Gas Utilities"
+"241","EME","EMCOR Group, Inc.","Industrial Goods","General Contractors"
+"242","PAAS","Pan American Silver Corp.",NA,NA
+"243","HA","Hawaiian Holdings, Inc.","Services","Regional Airlines"
+"244","KFRC","Kforce Inc.","Services","Staffing & Outsourcing Services"
+"245","AVX","AVX Corporation","Technology","Diversified Electronics"
+"246","BREW","Craft Brew Alliance, Inc.","Consumer Goods","Beverages - Brewers"
+"247","AGX","Argan, Inc.","Industrial Goods","Heavy Construction"
+"248","ERIE","Erie Indemnity Company","Financial","Insurance Brokers"
+"249","POOL","Pool Corporation","Consumer Goods","Sporting Goods"
+"250","BAP","Credicorp Ltd.","Financial","Money Center Banks"
+"251","WAT","Waters Corporation","Healthcare","Medical Instruments & Supplies"
+"252","PRXL","PAREXEL International Corporation","Healthcare","Medical Laboratories & Research"
+"253","NVAX","Novavax, Inc.","Healthcare","Biotechnology"
+"254","ITT","ITT Inc.","Industrial Goods","Diversified Machinery"
+"255","IPXL","Impax Laboratories, Inc.","Healthcare","Drug Manufacturers - Major"
+"256","FTAI","Fortress Transportation and Infrastructure Investors LLC","Services","Rental & Leasing Services"
+"257","SCCO","Southern Copper Corporation","Basic Materials","Copper"
+"258","RCI","Rogers Communications Inc.","Technology","Wireless Communications"
+"259","CSGS","CSG Systems International, Inc.","Technology","Business Software & Services"
+"260","REV","Revlon, Inc.","Consumer Goods","Personal Products"
+"261","CENX","Century Aluminum Company","Basic Materials","Aluminum"
+"262","JAKK","JAKKS Pacific, Inc.","Consumer Goods","Toys & Games"
+"263","ANSS","Ansys, Inc.","Technology","Application Software"
+"264","PEGA","Pegasystems, Inc.","Technology","Business Software & Services"
+"265","LAMR","Lamar Advertising Company","Financial","REIT - Diversified"
+"266","ETFC","E*TRADE Financial Corporation","Financial","Investment Brokerage - National"
+"267","FMS","Fresenius Medical Care AG & Co. KGAA","Healthcare","Specialized Health Services"
+"268","NCI","Navigant Consulting, Inc.","Services","Management Services"
+"269","NVS","Novartis AG","Healthcare","Drug Manufacturers - Major"
+"270","PDS","Precision Drilling Corporation","Basic Materials","Oil & Gas Equipment & Services"
+"271","PSO","Pearson plc","Services","Publishing - Books"
+"272","NUS","Nu Skin Enterprises, Inc.","Consumer Goods","Personal Products"
+"273","EMITF","Elbit Imaging Ltd.",NA,NA
+"274","TESO","Tesco Corporation","Basic Materials","Oil & Gas Equipment & Services"
+"275","VSAT","ViaSat, Inc.","Technology","Communication Equipment"
+"276","SNAK","Inventure Foods, Inc.","Consumer Goods","Processed & Packaged Goods"
+"277","SNHY","Sun Hydraulics Corporation","Industrial Goods","Industrial Equipment & Components"
+"278","ESGR","Enstar Group Limited","Financial","Property & Casualty Insurance"
+"279","ALV","Autoliv, Inc.","Consumer Goods","Auto Parts"
+"280","FBC","Flagstar Bancorp, Inc.","Financial","Savings & Loans"
+"281","VTR","Ventas, Inc.","Financial","REIT - Healthcare Facilities"
+"282","AMZN","Amazon.com, Inc.","Services","Catalog & Mail Order Houses"
+"283","NTL","Nortel Inversora S.A.","Technology","Telecom Services - Foreign"
+"284","SRT","StarTek, Inc.","Services","Business Services"
+"285","FIX","Comfort Systems USA, Inc.","Industrial Goods","General Contractors"
+"286","EGHT","8x8, Inc.","Technology","Diversified Communication Services"
+"287","PSMT","PriceSmart, Inc.","Services","Discount, Variety Stores"
+"288","PLCE","The Children's Place, Inc.","Services","Apparel Stores"
+"289","SRI","Stoneridge, Inc.","Consumer Goods","Auto Parts"
+"290","CHRW","C.H. Robinson Worldwide, Inc.","Services","Air Delivery & Freight Services"
+"291","FORTY","Formula Systems (1985) Ltd.","Technology","Business Software & Services"
+"292","CHL","China Mobile Limited","Technology","Wireless Communications"
+"293","CSU","Capital Senior Living Corporation","Healthcare","Long-Term Care Facilities"
+"294","SAH","Sonic Automotive, Inc.","Services","Auto Dealerships"
+"295","GEOS","Geospace Technologies Corporation","Basic Materials","Oil & Gas Equipment & Services"
+"296","AI","Arlington Asset Investment Corp.","Financial","Mortgage Investment"
+"297","NICK","Nicholas Financial, Inc.","Financial","Credit Services"
+"298","PWR","Quanta Services, Inc.","Industrial Goods","General Contractors"
+"299","SCS","Steelcase Inc.","Consumer Goods","Business Equipment"
+"300","WDR","Waddell & Reed Financial, Inc.","Financial","Asset Management"
+"301","UVSP","Univest Corporation of Pennsylvania","Financial","Regional - Northeast Banks"
+"302","CFFI","C&F Financial Corporation","Financial","Regional - Mid-Atlantic Banks"
+"303","FII","Federated Investors, Inc.","Financial","Asset Management"
+"304","AXTI","AXT, Inc.","Technology","Semiconductor - Integrated Circuits"
+"305","BDE",NA,NA,NA
+"306","HCKT","The Hackett Group, Inc.","Services","Management Services"
+"307","GIL","Gildan Activewear Inc.","Consumer Goods","Textile - Apparel Clothing"
+"308","CSGP","CoStar Group, Inc.","Financial","Property Management"
+"309","HTBK","Heritage Commerce Corp","Financial","Regional - Pacific Banks"
+"310","RBCAA","Republic Bancorp, Inc.","Financial","Regional - Southeast Banks"
+"311","IX","ORIX Corporation","Financial","Credit Services"
+"312","VIV","Telefônica Brasil S.A.","Technology","Wireless Communications"
+"313","PAA","Plains All American Pipeline, L.P.","Basic Materials","Oil & Gas Pipelines"
+"314","BCOR","Blucora, Inc.","Technology","Internet Information Providers"
+"315","AMRB","American River Bankshares","Financial","Regional - Pacific Banks"
+"316","BAK","Braskem S.A.","Basic Materials","Chemicals - Major Diversified"
+"317","ETM","Entercom Communications Corp.","Services","Broadcasting - Radio"
+"318","GBL","GAMCO Investors, Inc.","Financial","Asset Management"
+"319","EPAY","Bottomline Technologies (de), Inc.","Technology","Business Software & Services"
+"320","EXTR","Extreme Networks, Inc.","Technology","Networking & Communication Devices"
+"321","ATLC","Atlanticus Holdings Corporation","Financial","Credit Services"
+"322","PGC","Peapack-Gladstone Financial Corporation","Financial","Regional - Northeast Banks"
+"323","WTBA","West Bancorporation, Inc.","Financial","Regional - Southwest  Banks"
+"324","KT","KT Corporation","Technology","Telecom Services - Foreign"
+"325","NAD","Nuveen Quality Municipal Income Fund",NA,NA
+"326","FFIV","F5 Networks, Inc.","Technology","Business Software & Services"
+"327","JNPR","Juniper Networks, Inc.","Technology","Networking & Communication Devices"
+"328","KTP",NA,NA,NA
+"329","FNLC","The First Bancorp, Inc.","Financial","Regional - Northeast Banks"
+"330","HSBC","HSBC Holdings plc","Financial","Foreign Money Center Banks"
+"331","ACTA","Actua Corporation","Technology","Application Software"
+"332","PCTI","PCTEL, Inc.","Technology","Wireless Communications"
+"333","RHT","Red Hat, Inc.","Technology","Application Software"
+"334","NTCT","NetScout Systems, Inc.","Technology","Business Software & Services"
+"335","MFC","Manulife Financial Corporation","Financial","Life Insurance"
+"336","RDWR","Radware Ltd.","Technology","Information Technology Services"
+"337","BLK","BlackRock, Inc.","Financial","Asset Management"
+"338","CIR","CIRCOR International, Inc.","Industrial Goods","Industrial Equipment & Components"
+"339","PTNR","Partner Communications Company Ltd.","Technology","Wireless Communications"
+"340","NSL","Nuveen Senior Income Fund",NA,NA
+"341","AKAM","Akamai Technologies, Inc.","Technology","Internet Information Providers"
+"342","TDY","Teledyne Technologies Incorporated","Technology","Scientific & Technical Instruments"
+"343","BST",NA,NA,NA
+"344","PKG","Packaging Corporation of America","Consumer Goods","Packaging & Containers"
+"345","UTSI","UTStarcom Holdings Corp.","Technology","Wireless Communications"
+"346","EW","Edwards Lifesciences Corporation","Healthcare","Medical Appliances & Equipment"
+"347","PTR","PetroChina Company Limited","Basic Materials","Major Integrated Oil & Gas"
+"348","FBR","Fibria Celulose S.A.","Consumer Goods","Paper & Paper Products"
+"349","GSOL","Global Sources Ltd.","Services","Business Services"
+"350","ON","ON Semiconductor Corporation","Technology","Semiconductor - Broad Line"
+"351","UBS","UBS Group AG","Financial","Foreign Money Center Banks"
+"352","SONS","Sonus Networks, Inc.","Technology","Communication Equipment"
+"353","ISRG","Intuitive Surgical, Inc.","Healthcare","Medical Appliances & Equipment"
+"354","CHU","China Unicom (Hong Kong) Limited","Technology","Wireless Communications"
+"355","MVC",NA,NA,NA
+"356","ENTG","Entegris, Inc.","Technology","Semiconductor Equipment & Materials"
+"357","ERJ","Embraer S.A.","Industrial Goods","Aerospace/Defense Products & Services"
+"358","INFI","Infinity Pharmaceuticals, Inc.","Healthcare","Biotechnology"
+"359","SPTN","SpartanNash Company","Services","Food Wholesale"
+"360","ASR","Grupo Aeroportuario del Sureste, S. A. B. de C. V.","Services","Air Services, Other"
+"361","GRMN","Garmin Ltd.","Technology","Scientific & Technical Instruments"
+"362","GPN","Global Payments Inc.","Services","Business Services"
+"363","CSFL","CenterState Bank Corporation","Financial","Regional - Southeast Banks"
+"364","AMOV","América Móvil, S.A.B. de C.V.",NA,NA
+"365","OIS","Oil States International, Inc.","Basic Materials","Oil & Gas Equipment & Services"
+"366","IDT","IDT Corporation","Technology","Diversified Communication Services"
+"367","COL","Rockwell Collins, Inc.","Industrial Goods","Aerospace/Defense Products & Services"
+"368","FIS","Fidelity National Information Services, Inc.","Technology","Information Technology Services"
+"369","TAC","TransAlta Corporation","Utilities","Diversified Utilities"
+"370","PFG","Principal Financial Group, Inc.","Financial","Life Insurance"
+"371","CCRN","Cross Country Healthcare, Inc.","Services","Staffing & Outsourcing Services"
+"372","LYG","Lloyds Banking Group plc","Financial","Foreign Money Center Banks"
+"373","AKP","Alliance California Municipal Income Fund, Inc.",NA,NA
+"374","MANT","ManTech International Corporation","Technology","Security Software & Services"
+"375","JBLU","JetBlue Airways Corporation","Services","Regional Airlines"
+"376","NPO","EnPro Industries, Inc.","Industrial Goods","Industrial Equipment & Components"
+"377","BGFV","Big 5 Sporting Goods Corporation","Services","Sporting Goods Stores"
+"378","JPS","Nuveen Preferred Securities Income Fund",NA,NA
+"379","NGS","Natural Gas Services Group, Inc.","Basic Materials","Oil & Gas Equipment & Services"
+"380","MMLP","Martin Midstream Partners L.P.","Basic Materials","Oil & Gas Pipelines"
+"381","CME","CME Group Inc.","Financial","Investment Brokerage - National"
+"382","STX","Seagate Technology plc","Technology","Data Storage Devices"
+"383","FPT","Federated Premier Intermediate Municipal Income Fund",NA,NA
+"384","NKX","Nuveen California AMT-Free Quality Municipal Income Fund",NA,NA
+"385","IHG","InterContinental Hotels Group PLC","Services","Lodging"
+"386","CHY","Calamos Convertible and High Income Fund",NA,NA
+"387","DGICA","Donegal Group Inc.",NA,NA
+"388","NTGR","NETGEAR, Inc.","Technology","Communication Equipment"
+"389","TI.A",NA,NA,NA
+"390","EVT","Eaton Vance Tax-Advantaged Dividend Income Fund",NA,NA
+"391","WIA","Western Asset/Claymore Inflation-Linked Securities & Income Fund",NA,NA
+"392","WF","Woori Bank Co., Ltd.",NA,NA
+"393","LKQ","LKQ Corporation","Consumer Goods","Auto Parts"
+"394","CMS.PB",NA,NA,NA
+"395","PIY",NA,NA,NA
+"396","MRLN","Marlin Business Services Corp.","Financial","Mortgage Investment"
+"397","NXST","Nexstar Media Group, Inc.","Services","Broadcasting - TV"
+"398","KTN",NA,NA,NA
+"399","AHL","Aspen Insurance Holdings Limited","Financial","Property & Casualty Insurance"
+"400","ETG","Eaton Vance Tax-Advantaged Global Dividend Income Fund",NA,NA
+"401","WIW","Western Asset/Claymore Inflation-Linked Opportunities & Income Fund",NA,NA
+"402","RNR.PC",NA,NA,NA
+"403","MFD",NA,NA,NA
+"404","MCHX","Marchex, Inc.","Services","Marketing Services"
+"405","GJH",NA,NA,NA
+"406","ALNY","Alnylam Pharmaceuticals, Inc.","Healthcare","Biotechnology"
+"407","LPL","LG Display Co., Ltd.","Technology","Diversified Electronics"
+"408","PYT",NA,NA,NA
+"409","BECN","Beacon Roofing Supply, Inc.","Industrial Goods","General Building Materials"
+"410","EOI","Eaton Vance Enhanced Equity Income Fund",NA,NA
+"411","BBW","Build-A-Bear Workshop, Inc.","Services","Toy & Hobby Stores"
+"412","DLR","Digital Realty Trust, Inc.","Financial","REIT - Office"
+"413","OHAI",NA,NA,NA
+"414","ORA","Ormat Technologies, Inc.","Utilities","Electric Utilities"
+"415","FMO","Fiduciary/Claymore MLP Opportunity Fund",NA,NA
+"416","CE","Celanese Corporation","Basic Materials","Chemicals - Major Diversified"
+"417","LCM","Advent/Claymore Enhanced Growth & Income Fund",NA,NA
+"418","PBH","Prestige Brands Holdings, Inc.","Healthcare","Medical Appliances & Equipment"
+"419","EVG","Eaton Vance Short Duration Diversified Income Fund",NA,NA
+"420","MORN","Morningstar, Inc.","Technology","Information & Delivery Services"
+"421","TGP","Teekay LNG Partners L.P.","Services","Shipping"
+"422","BOE",NA,NA,NA
+"423","LOR","Lazard World Dividend & Income Fund Inc.",NA,NA
+"424","SLMBP","SLM Corporation",NA,NA
+"425","LORL","Loral Space & Communications Inc.","Technology","Communication Equipment"
+"426","BDJ",NA,NA,NA
+"427","GHDX","Genomic Health, Inc.","Healthcare","Medical Laboratories & Research"
+"428","GLP","Global Partners LP","Services","Basic Materials Wholesale"
+"429","WSBF","Waterstone Financial, Inc.","Financial","Savings & Loans"
+"430","EGF",NA,NA,NA
+"431","AAWW","Atlas Air Worldwide Holdings, Inc.","Services","Air Services, Other"
+"432","FBIZ","First Business Financial Services, Inc.","Financial","Regional - Midwest Banks"
+"433","GYC",NA,NA,NA
+"434","VIAB","Viacom, Inc.","Services","Entertainment - Diversified"
+"435","GDV.PA",NA,NA,NA
+"436","HEES","H&E Equipment Services, Inc.","Services","Rental & Leasing Services"
+"437","PERI","Perion Network Ltd.","Technology","Business Software & Services"
+"438","ETE","Energy Transfer Equity, L.P.","Basic Materials","Oil & Gas Pipelines"
+"439","XCO","EXCO Resources, Inc.","Basic Materials","Independent Oil & Gas"
+"440","BTA","BlackRock Long-Term Municipal Advantage Trust",NA,NA
+"441","TDG","TransDigm Group Incorporated","Industrial Goods","Aerospace/Defense Products & Services"
+"442","PFK","Prudential Financial, Inc.",NA,NA
+"443","QVCA","QVC Group","Services","Catalog & Mail Order Houses"
+"444","GS.PD",NA,NA,NA
+"445","MA","Mastercard Incorporated","Financial","Credit Services"
+"446","MWA","Mueller Water Products, Inc.","Industrial Goods","Industrial Equipment & Components"
+"447","SNCR","Synchronoss Technologies, Inc.","Technology","Application Software"
+"448","KALU","Kaiser Aluminum Corporation","Basic Materials","Aluminum"
+"449","WYN","Wyndham Worldwide Corporation","Services","Lodging"
+"450","CPG","Crescent Point Energy Corp.","Basic Materials","Independent Oil & Gas"
+"451","WNS","WNS (Holdings) Limited","Services","Business Services"
+"452","AGD",NA,NA,NA
+"453","EDU","New Oriental Education & Technology Group Inc.","Services","Education & Training Services"
+"454","WU","The Western Union Company","Financial","Credit Services"
+"455","GURE","Gulf Resources, Inc.","Basic Materials","Specialty Chemicals"
+"456","IPHS","Innophos Holdings, Inc.","Basic Materials","Specialty Chemicals"
+"457","ALLT","Allot Communications Ltd.","Technology","Communication Equipment"
+"458","ETY","Eaton Vance Tax-Managed Diversified Equity Income Fund",NA,NA
+"459","AFSI","AmTrust Financial Services, Inc.","Financial","Property & Casualty Insurance"
+"460","GTT","GTT Communications, Inc.","Technology","Diversified Communication Services"
+"461","BTZ",NA,NA,NA
+"462","CTAA","Qwest Corporation",NA,NA
+"463","EIG","Employers Holdings, Inc.","Financial","Accident & Health Insurance"
+"464","ARAY","Accuray Incorporated","Healthcare","Medical Appliances & Equipment"
+"465","PSTB","Park Sterling Corporation","Financial","Regional - Southeast Banks"
+"466","KS","KapStone Paper and Packaging Corporation","Consumer Goods","Paper & Paper Products"
+"467","CPLP","Capital Product Partners L.P.","Services","Shipping"
+"468","AFC","Allied Capital Corporation",NA,NA
+"469","PNNT",NA,NA,NA
+"470","EDD","Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",NA,NA
+"471","CAVM","Cavium, Inc.","Technology","Semiconductor - Broad Line"
+"472","IBKR","Interactive Brokers Group, Inc.","Financial","Investment Brokerage - National"
+"473","BGY",NA,NA,NA
+"474","TYPE","Monotype Imaging Holdings Inc.","Technology","Application Software"
+"475","GOF","Guggenheim Strategic Opportunities Fund",NA,NA
+"476","GJT","Strats(SM) Trust For Allstate Corp Securities, Series 2006-3",NA,NA
+"477","CXO","Concho Resources Inc.","Basic Materials","Oil & Gas Drilling & Exploration"
+"478","VRTU","Virtusa Corporation","Technology","Information Technology Services"
+"479","CZZ","Cosan Limited","Utilities","Diversified Utilities"
+"480","ATHN","athenahealth, Inc.","Technology","Healthcare Information Services"
+"481","REN","Resolute Energy Corporation","Basic Materials","Independent Oil & Gas"
+"482","MAIN","Main Street Capital Corporation","Financial","Diversified Investments"
+"483","DFT","DuPont Fabros Technology, Inc.","Financial","REIT - Office"
+"484","CVI","CVR Energy, Inc.","Basic Materials","Oil & Gas Refining & Marketing"
+"485","BCOM","B Communications Ltd","Technology","Diversified Communication Services"
+"486","AMCN","AirMedia Group Inc.","Services","Marketing Services"
+"487","ENSG","The Ensign Group, Inc.","Healthcare","Long-Term Care Facilities"
+"488","NFBK","Northfield Bancorp, Inc. (Staten Island, NY)","Financial","Regional - Northeast Banks"
+"489","ARR","ARMOUR Residential REIT, Inc.","Financial","REIT - Residential"
+"490","XIN","Xinyuan Real Estate Co., Ltd.","Financial","Real Estate Development"
+"491","WFC.PJ",NA,NA,NA
+"492","PYS","PPlus Trust Series RRD-1",NA,NA
+"493","NWE","Northwestern Corporation","Utilities","Diversified Utilities"
+"494","SOL","ReneSola Ltd","Technology","Semiconductor - Specialized"
+"495","AHC","A.H. Belo Corporation","Services","Publishing - Newspapers"
+"496","PM","Philip Morris International Inc.","Consumer Goods","Cigarettes"
+"497","BAC.PE",NA,NA,NA
+"498","DPS","Dr Pepper Snapple Group, Inc.","Consumer Goods","Beverages - Soft Drinks"
+"499","SB","Safe Bulkers, Inc.","Services","Shipping"
+"500","SNI","Scripps Networks Interactive, Inc.","Services","Broadcasting - TV"
+"501","DL","China Distance Education Holdings Limited","Services","Education & Training Services"
+"502","TREE","LendingTree, Inc.","Financial","Mortgage Investment"
+"503","ASCMA","Ascent Capital Group, Inc.","Services","Security & Protection Services"
+"504","EBR","Centrais Elétricas Brasileiras S.A. - Eletrobras","Utilities","Electric Utilities"
+"505","CLW","Clearwater Paper Corporation","Consumer Goods","Paper & Paper Products"
+"506","AGI","Alamos Gold Inc.","Basic Materials","Gold"
+"507","EOT","Eaton Vance National Municipal Opportunities Trust",NA,NA
+"508","CYS","CYS Investments, Inc.","Financial","REIT - Diversified"
+"509","MDSO","Medidata Solutions, Inc.","Technology","Healthcare Information Services"
+"510","BUD","Anheuser-Busch InBev SA/NV","Consumer Goods","Beverages - Brewers"
+"511","IGI",NA,NA,NA
+"512","TBNK","Territorial Bancorp Inc.","Financial","Regional - Pacific Banks"
+"513","CPIX","Cumberland Pharmaceuticals Inc.","Healthcare","Drug Manufacturers - Other"
+"514","SEM","Select Medical Holdings Corporation","Healthcare","Hospitals"
+"515","ECHO","Echo Global Logistics, Inc.","Services","Trucking"
+"516","VRSK","Verisk Analytics, Inc.","Services","Business Services"
+"517","PAM","Pampa Energía S.A.","Utilities","Electric Utilities"
+"518","IRWD","Ironwood Pharmaceuticals, Inc.","Healthcare","Drugs - Generic"
+"519","TRNO","Terreno Realty Corporation","Financial","REIT - Industrial"
+"520","STNG","Scorpio Tankers Inc.","Services","Shipping"
+"521","PRI","Primerica, Inc.","Financial","Life Insurance"
+"522","AOSL","Alpha and Omega Semiconductor Limited","Technology","Semiconductor - Specialized"
+"523","EXPR","Express, Inc.","Services","Apparel Stores"
+"524","JKS","JinkoSolar Holding Co., Ltd.","Technology","Semiconductor - Specialized"
+"525","HSEB","HSBC Holdings plc",NA,NA
+"526","FN","Fabrinet","Consumer Goods","Electronic Equipment"
+"527","QUAD","Quad/Graphics, Inc.","Services","Business Services"
+"528","COR","CoreSite Realty Corporation","Financial","REIT - Office"
+"529","AMRS","Amyris, Inc.","Basic Materials","Specialty Chemicals"
+"530","FSD",NA,NA,NA
+"531","KEYW","The KEYW Holding Corporation","Technology","Application Software"
+"532","GPRK","GeoPark Limited","Basic Materials","Oil & Gas Drilling & Exploration"
+"533","GBT","Global Blood Therapeutics Inc.","Healthcare","Biotechnology"
+"534","PACB","Pacific Biosciences of California, Inc.","Healthcare","Biotechnology"
+"535","GBAB","Guggenheim Taxable Municipal Managed Duration Trust",NA,NA
+"536","BAH","Booz Allen Hamilton Holding Corporation","Services","Management Services"
+"537","BITA","Bitauto Holdings Limited","Technology","Internet Information Providers"
+"538","RFP","Resolute Forest Products Inc.","Consumer Goods","Paper & Paper Products"
+"539","OXLC","Oxford Lane Capital Corp.",NA,NA
+"540","AFT","Apollo Senior Floating Rate Fund Inc.",NA,NA
+"541","HCA","HCA Healthcare, Inc.","Healthcare","Hospitals"
+"542","CSOD","Cornerstone OnDemand, Inc.","Technology","Application Software"
+"543","FF","FutureFuel Corp.","Basic Materials","Chemicals - Major Diversified"
+"544","GNC","GNC Holdings, Inc.","Services","Drug Stores"
+"545","THR","Thermon Group Holdings, Inc.","Industrial Goods","Diversified Machinery"
+"546","NMFC",NA,NA,NA
+"547","YNDX","Yandex N.V.","Technology","Internet Information Providers"
+"548","SAVE","Spirit Airlines, Inc.","Services","Major Airlines"
+"549","P","Pandora Media, Inc.","Services","Broadcasting - Radio"
+"550","WAIR","Wesco Aircraft Holdings, Inc.","Services","Industrial Equipment Wholesale"
+"551","GNE","Genie Energy Ltd.","Basic Materials","Independent Oil & Gas"
+"552","VAC","Marriott Vacations Worldwide Corporation","Services","Resorts & Casinos"
+"553","DLPH","Delphi Automotive PLC","Consumer Goods","Auto Parts"
+"554","MN","Manning & Napier, Inc.","Financial","Asset Management"
+"555","KORS","Michael Kors Holdings Limited","Consumer Goods","Textile - Apparel Clothing"
+"556","BCEI","Bonanza Creek Energy Inc.","Basic Materials","Independent Oil & Gas"
+"557","GWRE","Guidewire Software, Inc.","Technology","Business Software & Services"
+"558","CCXI","ChemoCentryx, Inc.","Healthcare","Biotechnology"
+"559","SIR","Select Income REIT","Financial","REIT - Office"
+"560","ALSN","Allison Transmission Holdings, Inc.","Consumer Goods","Auto Parts"
+"561","VNTV","Vantiv, Inc.","Services","Business Services"
+"562","HTF","Horizon Technology Finance Corporation",NA,NA
+"563","BWG",NA,NA,NA
+"564","RM","Regional Management Corp.","Financial","Credit Services"
+"565","VCRA","Vocera Communications, Inc.","Technology","Communication Equipment"
+"566","RXN","Rexnord Corporation","Industrial Goods","Diversified Machinery"
+"567","PBYI","Puma Biotechnology, Inc.","Healthcare","Biotechnology"
+"568","BGCA","BGC Partners, Inc.",NA,NA
+"569","ELJ","Entergy Louisiana, LLC",NA,NA
+"570","HTBI","HomeTrust Bancshares, Inc.","Financial","Regional - Northeast Banks"
+"571","FIVE","Five Below, Inc.","Services","Specialty Retail, Other"
+"572","CHUY","Chuy's Holdings, Inc.","Services","Restaurants"
+"573","SWJ","Stanley Black & Decker, Inc.",NA,NA
+"574","LDP","Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",NA,NA
+"575","BLMN","Bloomin' Brands, Inc.","Services","Restaurants"
+"576","RZA","Reinsurance Group of America, Incorporated",NA,NA
+"577","AGIIL","Argo Group US, Inc.",NA,NA
+"578","QLYS","Qualys, Inc.","Technology","Application Software"
+"579","DTQ","DTE Energy Company",NA,NA
+"580","ANFI","Amira Nature Foods Ltd.","Consumer Goods","Food - Major Diversified"
+"581","WDAY","Workday, Inc.","Technology","Application Software"
+"582","SDLP","Seadrill Partners LLC","Basic Materials","Oil & Gas Drilling & Exploration"
+"583","SIEN","Sientra, Inc.",NA,NA
+"584","MRCC",NA,NA,NA
+"585","BGH","Barings Global Short Duration High Yield Fund",NA,NA
+"586","EDI","Stone Harbor Emerging Markets Total Income Fund",NA,NA
+"587","MPLX","MPLX LP","Basic Materials","Oil & Gas Pipelines"
+"588","SXE","Southcross Energy Partners, L.P.","Utilities","Gas Utilities"
+"589","RH","RH","Services","Home Furnishing Stores"
+"590","ENJ",NA,NA,NA
+"591","RESI","Altisource Residential Corporation","Financial","REIT - Residential"
+"592","GHY","Prudential Global Short Duration High Yield Fund, Inc.",NA,NA
+"593","USAC","USA Compression Partners, LP","Basic Materials","Oil & Gas Equipment & Services"
+"594","CVRR","CVR Refining, LP","Basic Materials","Oil & Gas Refining & Marketing"
+"595","XONE","The ExOne Company","Industrial Goods","Diversified Machinery"
+"596","VTRB",NA,NA,NA
+"597","SSNI","Silver Spring Networks, Inc.","Technology","Computer Based Systems"
+"598","ENTA","Enanta Pharmaceuticals, Inc.","Healthcare","Biotechnology"
+"599","PF","Pinnacle Foods Inc.","Consumer Goods","Food - Major Diversified"
+"600","DSL","DoubleLine Income Solutions Fund",NA,NA
+"601","AMBC","Ambac Financial Group, Inc.","Financial","Surety & Title Insurance"
+"602","BIOA","BioAmber Inc.","Basic Materials","Chemicals - Major Diversified"
+"603","DFP","Delphi Financial Group, Inc.",NA,NA
+"604","NYMTP","New York Mortgage Trust, Inc.",NA,NA
+"605","COTY","Coty Inc.","Consumer Goods","Personal Products"
+"606","MNK","Mallinckrodt Public Limited Company","Healthcare","Drugs - Generic"
+"607","BLUE","bluebird bio, Inc.","Healthcare","Biotechnology"
+"608","PTCT","PTC Therapeutics, Inc.","Healthcare","Biotechnology"
+"609","GOGO","Gogo Inc.","Technology","Diversified Communication Services"
+"610","AIY",NA,NA,NA
+"611","TRMR","Tremor Video, Inc.","Technology","Application Software"
+"612","FSFR","Fifth Street Senior Floating Rate Corp.",NA,NA
+"613","UCP",NA,NA,NA
+"614","DOC","Physicians Realty Trust","Financial","REIT - Healthcare Facilities"
+"615","WHFBL","WhiteHorse Finance, Inc.",NA,NA
+"616","GRAM","Graña y Montero S.A.A.","Services","Technical Services"
+"617","CTRL","Control4 Corporation","Technology","Diversified Electronics"
+"618","ASC","Ardmore Shipping Corporation","Services","Shipping"
+"619","TPRE","Third Point Reinsurance Ltd.","Financial","Property & Casualty Insurance"
+"620","ZBK","Zions Bancorporation",NA,NA
+"621","FMI","Foundation Medicine, Inc.","Healthcare","Medical Laboratories & Research"
+"622","PINC","Premier, Inc.","Technology","Healthcare Information Services"
+"623","RNG","RingCentral, Inc.","Technology","Application Software"
+"624","RMAX","RE/MAX Holdings, Inc.","Financial","Property Management"
+"625","ESRT","Empire State Realty Trust, Inc.","Financial","REIT - Diversified"
+"626","FTD","FTD Companies, Inc.","Services","Specialty Retail, Other"
+"627","VJET","Voxeljet AG","Technology","Computer Peripherals"
+"628","WUBA","58.com Inc.","Technology","Internet Information Providers"
+"629","WIX","Wix.com Ltd.","Technology","Internet Information Providers"
+"630","GMZ","Goldman Sachs MLP Income Opportunities Fund",NA,NA
+"631","VLP","Valero Energy Partners LP","Basic Materials","Oil & Gas Pipelines"
+"632","HLT","Hilton Worldwide Holdings Inc.","Services","Lodging"
+"633","AMC","AMC Entertainment Holdings, Inc.","Services","Movie Production, Theaters"
+"634","SC","Santander Consumer USA Holdings Inc.","Financial","Mortgage Investment"
+"635","VER.PF",NA,NA,NA
+"636","JMPC","JMP Group LLC",NA,NA
+"637","ATEN","A10 Networks, Inc.","Technology","Communication Equipment"
+"638","TSLX",NA,NA,NA
+"639","NORD","Nord Anglia Education, Inc.","Services","Education & Training Services"
+"640","TNET","TriNet Group, Inc.","Services","Business Services"
+"641","FPL",NA,NA,NA
+"642","JMLP","Nuveen All Cap Energy MLP Opportunities Fund",NA,NA
+"643","TWOU","2U, Inc.","Technology","Application Software"
+"644","HIVE","Aerohive Networks, Inc.","Technology","Communication Equipment"
+"645","SSWN","Seaspan Corporation",NA,NA
+"646","FSIC",NA,NA,NA
+"647","WB","Weibo Corporation","Technology","Internet Information Providers"
+"648","SPWH","Sportsman's Warehouse Holdings, Inc.","Consumer Goods","Sporting Goods"
+"649","SB.PC",NA,NA,NA
+"650","GLOP","GasLog Partners LP","Services","Shipping"
+"651","PBFX","PBF Logistics LP","Basic Materials","Oil & Gas Pipelines"
+"652","ABRN","Arbor Realty Trust, Inc.",NA,NA
+"653","GLADO","Gladstone Capital Corporation",NA,NA
+"654","CVEO","Civeo Corporation","Services","Business Services"
+"655","VNOM","Viper Energy Partners LP","Basic Materials","Independent Oil & Gas"
+"656","CCS","Century Communities, Inc.","Industrial Goods","Residential Construction"
+"657","INFO","IHS Markit Ltd.","Services","Business Services"
+"658","FNFV","Fidelity National Financial Ventures",NA,NA
+"659","TSQ","Townsquare Media, Inc.","Services","Broadcasting - Radio"
+"660","OXLCN",NA,NA,NA
+"661","FCB","FCB Financial Holdings, Inc.","Financial","Regional - Southeast Banks"
+"662","GNBC","Green Bancorp, Inc.","Financial","Money Center Banks"
+"663","CALA","Calithera Biosciences, Inc.","Healthcare","Biotechnology"
+"664","ZAYO","Zayo Group Holdings, Inc.","Technology","Networking & Communication Devices"
+"665","SHLX","Shell Midstream Partners, L.P.","Basic Materials","Oil & Gas Pipelines"
+"666","LBRDK","Liberty Broadband Corporation","Services","Broadcasting - TV"
+"667","SBLKL","Star Bulk Carriers Corp.",NA,NA
+"668","GAINO","Gladstone Investment Corporation",NA,NA
+"669","STOR","STORE Capital Corporation",NA,NA
+"670","NEFF","Neff Corporation",NA,NA
+"671","HIE","Miller/Howard High Income Equity Fund",NA,NA
+"672","KLXI","KLX Inc.","Industrial Goods","Aerospace/Defense Products & Services"
+"673","PRSC","The Providence Service Corporation","Healthcare","Specialized Health Services"
+"674","URBN","Urban Outfitters, Inc.","Services","Apparel Stores"
+"675","JNP","Juniper Pharmaceuticals, Inc.","Healthcare","Drugs - Generic"
+"676","RYAAY","Ryanair Holdings plc",NA,NA
+"677","TICC","TICC Capital Corp.","Financial","Closed-End Fund - Debt"
+"678","PRGX","PRGX Global, Inc.","Services","Business Services"
+"679","AEGN","Aegion Corporation","Industrial Goods","Heavy Construction"
+"680","BPFH","Boston Private Financial Holdings, Inc.","Financial","Regional - Northeast Banks"
+"681","GOV","Government Properties Income Trust","Financial","REIT - Office"
+"682","CSQ","Calamos Strategic Total Return Fund",NA,NA
+"683","HDS","HD Supply Holdings, Inc.","Services","Industrial Equipment Wholesale"
+"684","NCTY","The9 Limited","Technology","Multimedia & Graphics Software"
+"685","EZT","Entergy Texas, Inc.",NA,NA
+"686","AJX","Great Ajax Corp","Financial","REIT - Diversified"
+"687","RELY","Real Industry, Inc.","Industrial Goods","Waste Management"
+"688","ADRO","Aduro BioTech, Inc.","Healthcare","Biotechnology"
+"689","NYMTO","New York Mortgage Trust, Inc.",NA,NA
+"690","AFSS","AmTrust Financial Services, Inc.",NA,NA
+"691","TDOC","Teladoc, Inc.","Technology","Healthcare Information Services"
+"692","BUFF","Blue Buffalo Pet Products, Inc.","Consumer Goods","Food - Major Diversified"
+"693","PLNT","Planet Fitness, Inc.","Services","Sporting Activities"
+"694","GBLIZ","Global Indemnity Limited",NA,NA
+"695","SRCLP","Stericycle, Inc.",NA,NA
+"696","GAME",NA,NA,NA
+"697","PFGC","Performance Food Group Company",NA,NA
+"698","NVCR","NovoCure Limited",NA,NA
+"699","SOJA","The Southern Company",NA,NA
+"700","SBBP","Strongbridge Biopharma plc",NA,NA
+"701","EXTN","Exterran Corporation",NA,NA
+"702","VYGR","Voyager Therapeutics, Inc.",NA,NA
+"703","ACG",NA,NA,NA
+"704","MIME","Mimecast Limited",NA,NA
+"705","TCRZ",NA,NA,NA
+"706","MCX","Medley Capital Corporation",NA,NA
+"707","EDIT","Editas Medicine, Inc.",NA,NA
+"708","LMHA","Legg Mason, Inc.",NA,NA
+"709","UA","Under Armour, Inc.","Consumer Goods","Textile - Apparel Clothing"
+"710","BTU","Peabody Energy Corporation","Basic Materials","Industrial Metals & Minerals"
